@@ -41,4 +41,4 @@ Hvort sem þú ert með fáa bíla eða stóran flota, þá aðlagar Ratar sig a
 
 ---
 
-© 2025 [M.H.M. ehf.](http://ratar.is) — Öll réttindi áskilin.
+© 2025 [M.H.M. ehf.](http://ratar.is) — Allur réttur áskilin.
