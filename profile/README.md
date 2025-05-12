@@ -19,25 +19,19 @@ Hvort sem þú ert með fáa bíla eða stóran flota, þá aðlagar Ratar sig a
 ## 🔍 Helstu eiginleikar
 
 - **Rauntíma staðsetning**  
-  Fylgstu með staðsetningu allra ökutækja í rauntíma.
+  Sjáðu staðsetningu allra ökutækja í rauntíma.
 
-- **Sögulegar ferðir**  
+- **Skoðaðu söguna**  
   Skoðaðu nákvæmlega hvar ökutæki hafa verið og hvenær.
 
 - **Tilkynningar**  
-  Fáðu viðvaranir ef ökutæki fer inn/út af skilgreindu svæði, fer yfir hraða eða þarf viðhald.
+  Fáðu tilkynningu ef ökutæki fer inn/út af skilgreindu svæði, fer yfir skilgreindann hraða eða þarf viðhald.
 
 - **Skýrslur**  
-  Útbúðu skýrslur um ferðir, vegalengdir, hraða o.fl.
+  Skoðaðu skýrslur um ferðir, stop, hraða o.fl.
 
 - **RESTful API og WebSocket stuðningur**  
-  Auðveld samþætting við ytri kerfi.
-
-- **Árekstrartilkynningar og greining á bílum**  
-  Fáðu tilkynningar um árekstra og lestur úr tölvukerfi ökutækja (t.d. RPM, kælivökvatemp., kílómetrastöðu).
-
-- **Stuðningur við ýmis tæki**  
-  Virkar með R56L, FMC880, FMC003 og fleiri GPS tækjum
+  Auðveld samþætting við önnur kerfi.
 
 ---
 
