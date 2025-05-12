@@ -1,6 +1,6 @@
-# RatarGPS
+# Ratar
 
-Velkomin á GitHub síðu **RatarGPS** — traust lausn fyrir snjalla flotastjórnun.
+Velkomin á GitHub síðu **Ratar** — Betri flotastýringmeð GPS mælingakerfi.
 
 🌐 [Heimasíða](http://ratar.is)  
 📧 Hafðu samband: [ratar@ratar.is](mailto:ratar@ratar.is)  
